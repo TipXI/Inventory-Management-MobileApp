@@ -13,15 +13,15 @@ A comprehensive, high-performance mobile application designed for warehouse logi
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/home_screen.png" alt="Home Screen" width="19%">
+  <img src="assets/screenshots/home_screen.png" alt="Home Screen" width="30%">
   &nbsp;
-  <img src="assets/screenshots/inbound_screen.png" alt="Inbound List" width="19%">
+  <img src="assets/screenshots/inbound_screen.png" alt="Inbound List" width="30%">
   &nbsp;
-  <img src="assets/screenshots/outbound_screen.png" alt="Outbound List" width="19%">
+  <img src="assets/screenshots/outbound_screen.png" alt="Outbound List" width="30%">
+  <br><br>
+  <img src="assets/screenshots/profile_screen.png" alt="Employee Profile" width="30%">
   &nbsp;
-  <img src="assets/screenshots/profile_screen.png" alt="Employee Profile" width="19%">
-  &nbsp;
-  <img src="assets/screenshots/scanner_screen.png" alt="Barcode Scanner" width="19%">
+  <img src="assets/screenshots/scanner_screen.png" alt="Barcode Scanner" width="30%">
 </div>
 
 ## 🛠️ Technology Stack
