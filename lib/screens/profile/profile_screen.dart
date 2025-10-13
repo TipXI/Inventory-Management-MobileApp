@@ -49,8 +49,11 @@ class ProfileScreen extends StatelessWidget {
                 backgroundColor: Colors.white,
                 child: CircleAvatar(
                   radius: 52,
-                  backgroundImage: NetworkImage(
-                    'https://i.pravatar.cc/150?img=11', // Placeholder employee image
+                  backgroundColor: Colors.grey,
+                  child: Icon(
+                    Icons.person,
+                    size: 60,
+                    color: Colors.white,
                   ),
                 ),
               ),
